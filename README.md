@@ -92,7 +92,7 @@ project/
 
 ## 1️⃣ Clone the Repository
 ```
-git clone <(https://github.com/Premkr12/Document-Search-with-ocr)>
+git clone https://github.com/Premkr12/Document-Search-with-ocr
 cd project
 ```
 
