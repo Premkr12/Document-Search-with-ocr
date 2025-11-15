@@ -1,6 +1,6 @@
-# 📄 DocuSearch – Advanced OCR Document Management & Search System
+# 📄 DocuSearch Search With OCR
 
-DocuSearch is a powerful **MERN-based OCR Platform** that allows users to upload documents, extract text via **Tesseract OCR**, store them securely in **MongoDB**, and perform **fast keyword searches with highlighting**.  
+Document Search is a powerful **MERN-based OCR Platform** that allows users to upload documents, extract text via **Tesseract OCR**, store them securely in **MongoDB**, and perform **fast keyword searches with highlighting**.  
 The platform includes **authentication**, **drag & drop uploads**, **search previews**, **document management**, and a modern **React Dashboard UI**.
 
 ---
@@ -9,9 +9,7 @@ The platform includes **authentication**, **drag & drop uploads**, **search prev
 
 ## 🔐 Authentication System
 - JWT-based login & registration  
-- Protected dashboard routes  
-- Persistent login using localStorage  
-- Role-support (user/admin)
+- Protected dashboard routes
 
 ---
 
@@ -63,7 +61,7 @@ The platform includes **authentication**, **drag & drop uploads**, **search prev
 - Multer  
 - Tesseract.js  
 - JSON Web Tokens  
-- MongoDB + Mongoose  
+- MongoDB
 
 ---
 
@@ -94,7 +92,7 @@ project/
 
 ## 1️⃣ Clone the Repository
 ```
-git clone <your-repo-url>
+git clone <(https://github.com/Premkr12/Document-Search-with-ocr)>
 cd project
 ```
 
@@ -169,48 +167,9 @@ Runs on:
 
 ---
 
-# 📦 Deployment Guide
 
-## 🚀 Backend (Render / Railway)
-1. Create service  
-2. Add environment variables  
-3. Build command:  
-```
-npm install
-```
-4. Start command:  
-```
-node server.js
-```
 
----
-
-## 🌐 Frontend (Vercel)
-1. Import project  
-2. Add environment variable:  
 ```
-REACT_APP_API_URL=<backend-url>
-```
-3. Build command:  
-```
-npm run build
-```
-4. Output folder:  
-```
-build
-```
-
----
-
-# 🖼️ Screenshots (Optional Section)
-*(You can add later)*
-
-- Dashboard Preview  
-- Upload Page  
-- Search Highlight Demo  
-- Login/Signup UI  
-
----
 
 # 🤝 Contributing
 We welcome pull requests, improvements, and feature suggestions.  
@@ -230,4 +189,4 @@ This project is **free and open-source**.
 
 ---
 
-Enjoy building with **DocuSearch**!
+Enjoy building
